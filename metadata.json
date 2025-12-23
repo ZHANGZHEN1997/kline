@@ -1,0 +1,5 @@
+{
+  "name": "K-Line Destiny (K线人生)",
+  "description": "A black-and-white minimalist fortune telling application that visualizes your life trajectory as a stock market K-line chart using the Gemini API.",
+  "requestFramePermissions": []
+}
